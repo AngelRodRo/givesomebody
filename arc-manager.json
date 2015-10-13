@@ -1,0 +1,12 @@
+{
+  "ids": {
+    "ManagerHost": 2,
+    "LoadBalancer": 1
+  },
+  "models": {
+    "ManagerHost": {
+      "1dcc1de3-a272-4186-9697-29b930cdb9ea": "{\"id\":\"1dcc1de3-a272-4186-9697-29b930cdb9ea\",\"host\":\"http://0.0.0.0\",\"port\":3000,\"actions\":[\"delete\",\"edit\"],\"protocol\":\"http\",\"created\":1444499278974,\"$$hashKey\":\"object:627\",\"isHostProblem\":true,\"error\":{\"message\":\"getaddrinfo ENOTFOUND http http:80\"},\"errorType\":\"connection\",\"app\":null,\"processes\":null}"
+    },
+    "LoadBalancer": {}
+  }
+}
